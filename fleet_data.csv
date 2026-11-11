@@ -1,0 +1,1488 @@
+﻿Kenderaan,Tahun,Bulan,Bulan_No,Tarikh,Odometer_KM,Jarak_KM,Liter,kWh,Kos_Energi_RM,Status_Data,KM_per_Liter,KM_per_kWh,Kos_per_KM,Boleh_Analisis
+e.MAS 7,2026,September,9,2026-09-03,9870.0,41.0,,0.0,,kWh <= 0,,,,False
+e.MAS 7,2026,September,9,2026-09-04,9890.0,20.0,,0.0,,kWh <= 0,,,,False
+e.MAS 7,2026,September,9,2026-09-05,9974.0,84.0,,12.37,,OK,,6.790622473726759,,True
+e.MAS 7,2026,September,9,2026-09-08,10141.0,167.0,,23.84,,OK,,7.00503355704698,,True
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,September,9,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,2026-08-05,8300.0,379.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,2026-08-10,8551.0,251.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,2026-08-11,8613.0,62.0,,37.48,63.73,OK,,1.6542155816435433,1.0279032258064515,True
+e.MAS 7,2026,Ogos,8,2026-08-12,8788.0,175.0,,11.56,15.45,OK,,15.138408304498268,0.08828571428571429,True
+e.MAS 7,2026,Ogos,8,2026-08-14,9193.0,405.0,,44.98,66.75,OK,,9.004001778568254,0.1648148148148148,True
+e.MAS 7,2026,Ogos,8,2026-08-20,9583.0,390.0,,46.72,69.33,OK,,8.347602739726028,0.17776923076923076,True
+e.MAS 7,2026,Ogos,8,2026-08-24,9683.0,100.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,2026-08-26,9778.0,95.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,2026-08-28,9829.0,51.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Ogos,8,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,2026-07-03,6207.0,359.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,2026-07-15,6347.0,140.0,,30.46,,OK,,4.596191726854892,,True
+e.MAS 7,2026,Julai,7,2026-07-16,6709.0,362.0,,51.37,,OK,,7.046914541561223,,True
+e.MAS 7,2026,Julai,7,2026-07-21,7104.0,395.0,,55.43,,OK,,7.126104997293885,,True
+e.MAS 7,2026,Julai,7,2026-07-22,7485.0,381.0,,67.52,,OK,,5.642772511848341,,True
+e.MAS 7,2026,Julai,7,2026-07-23,7787.0,302.0,,67.36,,OK,,4.483372921615202,,True
+e.MAS 7,2026,Julai,7,2026-07-28,7921.0,134.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Julai,7,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,2026-06-09,5567.0,178.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,2026-06-15,5748.0,181.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,2026-06-30,5848.0,100.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Jun,6,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,2026-05-11,5117.0,26.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,2026-05-13,5134.0,17.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,2026-05-14,5199.0,65.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,2026-05-18,5277.0,78.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,2026-05-21,5331.0,54.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,2026-05-22,5389.0,58.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mei,5,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,April,4,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Mac,3,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Februari,2,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+e.MAS 7,2026,Januari,1,,,0.0,,,,kWh kosong,,,,False
+Honda City,2026,September,9,2026-09-01,71805.0,322.0,25.705,,98.19,OK,12.526745769305583,,0.3049378881987578,True
+Honda City,2026,September,9,2026-09-03,72129.0,324.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,2026-09-04,72457.0,328.0,26.525,,100.0,OK,12.36569274269557,,0.3048780487804878,True
+Honda City,2026,September,9,2026-09-04,72500.0,43.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,2026-09-05,72519.0,19.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,2026-09-10,72694.0,175.0,30.01,,120.64,OK,5.831389536821059,,0.6893714285714285,True
+Honda City,2026,September,9,2026-09-14,72946.0,252.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,2026-09-17,72981.0,35.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,2026-09-22,73311.0,330.0,30.0,,131.1,OK,11.0,,0.3972727272727273,True
+Honda City,2026,September,9,2026-09-28,73631.0,320.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,2026-09-30,73633.0,2.0,28.33,,129.47,OK,0.0705965407695023,,64.735,True
+Honda City,2026,September,9,,,,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,2026-08-03,69829.0,341.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,2026-08-04,69829.0,0.0,30.017,,114.66,Jarak <= 0,,,,False
+Honda City,2026,Ogos,8,2026-08-05,70156.0,327.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,2026-08-11,70245.0,89.0,27.624,,100.0,OK,3.2218360845641474,,1.1235955056179776,True
+Honda City,2026,Ogos,8,2026-08-13,70575.0,330.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,2026-08-21,70943.0,368.0,26.525,,100.0,OK,13.873704052780397,,0.2717391304347826,True
+Honda City,2026,Ogos,8,,71314.0,371.0,33.012,,124.46,Tarikh kosong,11.238337574215437,,0.33547169811320754,True
+Honda City,2026,Ogos,8,2026-08-28,71483.0,169.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,2026-07-02,68201.0,339.0,21.015,,70.82,OK,16.131334760885082,,0.20890855457227137,True
+Honda City,2026,Julai,7,2026-07-03,68201.0,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,2026-07-06,68211.0,10.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,2026-07-07,68545.0,334.0,35.002,,117.96,OK,9.542311867893263,,0.35317365269461076,True
+Honda City,2026,Julai,7,2026-07-09,68637.0,92.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,2026-07-10,68828.0,191.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,2026-07-16,69046.0,218.0,32.042,,109.58,OK,6.803570313962923,,0.5026605504587156,True
+Honda City,2026,Julai,7,2026-07-20,69398.0,352.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,2026-07-22,69398.0,0.0,30.0,,102.6,Jarak <= 0,,,,False
+Honda City,2026,Julai,7,2026-07-24,69488.0,90.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,2026-06-04,66107.0,321.0,33.0,,122.76,OK,9.727272727272727,,0.3824299065420561,True
+Honda City,2026,Jun,6,2026-06-08,66195.0,88.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,2026-06-10,66235.0,40.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,2026-06-11,66482.0,247.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,2026-06-12,66485.0,3.0,31.007,,115.35,OK,0.09675234624439642,,38.449999999999996,True
+Honda City,2026,Jun,6,2026-06-15,67015.0,530.0,30.025,,111.7,OK,17.65195670274771,,0.21075471698113207,True
+Honda City,2026,Jun,6,2026-06-18,67338.0,323.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,2026-06-23,67530.0,192.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,2026-06-24,67533.0,3.0,30.007,,111.6,OK,0.09997667210984103,,37.199999999999996,True
+Honda City,2026,Jun,6,2026-06-25,67862.0,329.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-06,64389.0,326.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-12,64410.0,21.0,31.007,,124.65,OK,0.677266423710775,,5.935714285714286,True
+Honda City,2026,Mei,5,2026-05-12,64583.0,173.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-13,64828.0,245.0,33.005,,127.3,OK,7.423117709437963,,0.5195918367346939,True
+Honda City,2026,Mei,5,2026-05-14,65154.0,326.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-15,65169.0,15.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-17,65236.0,67.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-19,65321.0,85.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-19,65340.0,19.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-20,65386.0,46.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-21,65432.0,46.0,27.085,,110.24,OK,1.6983570241831272,,2.3965217391304345,True
+Honda City,2026,Mei,5,2026-05-22,65445.0,13.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,2026-05-22,65786.0,341.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,2026-04-01,61411.0,255.0,30.007,,116.13,OK,8.498017129336487,,0.45541176470588235,True
+Honda City,2026,April,4,2026-04-01,61760.0,349.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,2026-04-02,61953.0,193.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,2026-04-03,62272.0,319.0,32.023,,123.93,OK,9.961590107110514,,0.3884952978056427,True
+Honda City,2026,April,4,2026-04-06,62606.0,334.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,2026-04-13,62788.0,182.0,33.017,,140.98,OK,5.512311839355483,,0.7746153846153846,True
+Honda City,2026,April,4,2026-04-14,63116.0,328.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,2026-04-16,63126.0,10.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,2026-04-17,63148.0,22.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,2026-04-20,63469.0,321.0,33.001,,132.66,OK,9.726977970364535,,0.4132710280373832,True
+Honda City,2026,April,4,2026-04-21,63797.0,328.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,2026-04-23,63982.0,185.0,34.947,,135.24,OK,5.293730506195095,,0.731027027027027,True
+Honda City,2026,April,4,2026-04-27,64063.0,81.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,2026-03-05,58666.0,56.0,24.765,,66.12,OK,2.261255804562891,,1.1807142857142858,True
+Honda City,2026,Mac,3,,58909.0,243.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,2026-03-10,58926.0,17.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,2026-03-11,59237.0,311.0,35.042,,93.56,OK,8.875064208663888,,0.30083601286173633,True
+Honda City,2026,Mac,3,2026-03-12,59561.0,324.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,2026-03-13,59889.0,328.0,27.89,,91.2,OK,11.760487629974902,,0.2780487804878049,True
+Honda City,2026,Mac,3,2026-03-16,59989.0,100.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,2026-03-18,60400.0,411.0,34.525,,112.9,OK,11.904417089065895,,0.27469586374695865,True
+Honda City,2026,Mac,3,2026-03-29,60714.0,314.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,2026-03-30,60808.0,94.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,2026-03-31,61156.0,348.0,32.945,,127.5,OK,10.56305964486265,,0.36637931034482757,True
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,2026-02-03,56587.0,362.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,2026-02-06,56751.0,164.0,34.683,,88.09,OK,4.728541360320619,,0.5371341463414634,True
+Honda City,2026,Februari,2,,57072.0,321.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,57417.0,345.0,33.0,,83.8,Tarikh kosong,10.454545454545455,,0.24289855072463767,True
+Honda City,2026,Februari,2,2026-02-19,57743.0,326.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,2026-02-20,57746.0,3.0,32.052,,81.41,OK,0.09359790340696368,,27.136666666666667,True
+Honda City,2026,Februari,2,,57750.0,4.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,2026-02-23,58227.0,477.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,2026-02-25,58550.0,323.0,33.015,,83.86,OK,9.783431773436316,,0.2596284829721362,True
+Honda City,2026,Februari,2,2026-02-27,58610.0,60.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,2026-01-07,54567.0,175.0,31.09,,79.6,OK,5.628819556127373,,0.45485714285714285,True
+Honda City,2026,Januari,1,2026-01-08,54893.0,326.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,2026-01-13,55219.0,326.0,31.407,,79.75,OK,10.37985162543382,,0.2446319018404908,True
+Honda City,2026,Januari,1,2026-01-15,55462.0,243.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,2026-01-23,55786.0,324.0,34.0,,86.35,OK,9.529411764705882,,0.26651234567901233,True
+Honda City,2026,Januari,1,2026-01-27,55892.0,106.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,2026-01-28,56225.0,333.0,30.0,,76.2,OK,11.1,,0.22882882882882885,True
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,2025-12-02,51522.0,88.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,2025-12-03,51890.0,368.0,29.012,,76.3,OK,12.684406452502413,,0.2073369565217391,True
+Honda City,2025,Disember,12,2025-12-04,52069.0,179.0,31.006,,82.48,OK,5.773076178804103,,0.46078212290502796,True
+Honda City,2025,Disember,12,2025-12-04,52331.0,262.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,2025-12-08,52649.0,318.0,31.375,,83.46,OK,10.135458167330677,,0.2624528301886792,True
+Honda City,2025,Disember,12,2025-12-09,52971.0,322.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,2025-12-10,53145.0,174.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,2025-12-12,53487.0,342.0,32.545,,85.92,OK,10.508526655400214,,0.2512280701754386,True
+Honda City,2025,Disember,12,2025-12-19,53527.0,40.0,19.502,,51.1,OK,2.051071684955389,,1.2775,True
+Honda City,2025,Disember,12,2025-12-22,53844.0,317.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,2025-12-23,54168.0,324.0,33.0,,86.46,OK,9.818181818181818,,0.26685185185185184,True
+Honda City,2025,Disember,12,2025-12-24,54213.0,45.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,2025-12-31,54392.0,179.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-01,48439.0,282.0,34.96,,90.0,OK,8.066361556064074,,0.3191489361702128,True
+Honda City,2025,November,11,2025-11-02,48693.0,254.0,16.526,,42.97,OK,15.369720440517971,,0.16917322834645668,True
+Honda City,2025,November,11,2025-11-03,48711.0,18.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-04,48732.0,21.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-05,48745.0,13.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-06,48770.0,25.0,24.547,,63.82,OK,1.018454393612254,,2.5528,True
+Honda City,2025,November,11,2025-11-07,48819.0,49.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-08,49127.0,308.0,23.452,,60.98,OK,13.133208255159474,,0.197987012987013,True
+Honda City,2025,November,11,2025-11-11,49449.0,322.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-13,49786.0,337.0,31.002,,82.16,OK,10.870266434423586,,0.24379821958456974,True
+Honda City,2025,November,11,2025-11-14,49821.0,35.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-17,50140.0,319.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-18,50143.0,3.0,32.007,,84.82,OK,0.09372949667260287,,28.27333333333333,True
+Honda City,2025,November,11,2025-11-20,50462.0,319.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-21,50781.0,319.0,33.0,,87.47,OK,9.666666666666666,,0.27420062695924763,True
+Honda City,2025,November,11,2025-11-24,51103.0,322.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,2025-11-26,51434.0,331.0,32.005,,84.81,OK,10.342134041556006,,0.2562235649546828,True
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,2025-10-02,44191.0,196.0,31.0,,80.6,OK,6.32258064516129,,0.41122448979591836,True
+Honda City,2025,Oktober,10,2025-10-02,44599.0,604.0,25.0,,65.0,OK,24.16,,0.1076158940397351,True
+Honda City,2025,Oktober,10,,44919.0,320.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,2025-10-06,44922.0,3.0,36.02,,93.64,OK,0.0832870627429206,,31.213333333333335,True
+Honda City,2025,Oktober,10,2025-10-07,45267.0,345.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,2025-10-10,45595.0,328.0,33.04,,85.91,OK,9.927360774818402,,0.26192073170731706,True
+Honda City,2025,Oktober,10,2025-10-14,45929.0,334.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,2025-10-16,46392.0,463.0,33.7,,87.62,OK,13.73887240356083,,0.18924406047516198,True
+Honda City,2025,Oktober,10,2025-10-17,46577.0,185.0,34.0,,88.4,OK,5.4411764705882355,,0.47783783783783784,True
+Honda City,2025,Oktober,10,,46663.0,86.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,2025-10-18,47091.0,428.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,2025-10-23,0.0,0.0,29.0,,75.42,Jarak <= 0,,,,False
+Honda City,2025,Oktober,10,2025-10-28,47421.0,330.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,2025-10-29,47598.0,177.0,33.0,,85.81,OK,5.363636363636363,,0.48480225988700565,True
+Honda City,2025,Oktober,10,2025-10-30,47923.0,325.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,2025-10-31,48157.0,234.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,2025-09-10,42515.0,361.0,31.004,,63.56,OK,11.643658882724809,,0.17606648199445984,True
+Honda City,2025,September,9,2025-09-11,42603.0,88.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,2025-09-12,42722.0,119.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,2025-09-13,42972.0,250.0,26.009,,53.32,OK,9.612057364758353,,0.21328,True
+Honda City,2025,September,9,2025-09-14,43290.0,318.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,2025-09-18,43611.0,321.0,32.014,,65.03,OK,10.026863247329292,,0.20258566978193146,True
+Honda City,2025,September,9,2025-09-23,43928.0,317.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,2025-09-26,43944.0,16.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,2025-09-30,43995.0,51.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,2025-08-01,38644.0,326.0,34.02,,69.74,OK,9.58259847148736,,0.21392638036809813,True
+Honda City,2025,Ogos,8,2025-08-05,38980.0,336.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,2025-08-08,39309.0,329.0,34.001,,69.7,OK,9.676185994529574,,0.21185410334346505,True
+Honda City,2025,Ogos,8,2025-08-11,39629.0,320.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,2025-08-13,39956.0,327.0,30.007,,31.51,OK,10.897457259972672,,0.09636085626911316,True
+Honda City,2025,Ogos,8,2025-08-18,39959.0,3.0,19.012,,38.97,OK,0.15779507679360402,,12.99,True
+Honda City,2025,Ogos,8,2025-08-19,40531.0,572.0,30.004,,61.51,OK,19.064124783362217,,0.10753496503496503,True
+Honda City,2025,Ogos,8,2025-08-21,40718.0,187.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,2025-08-22,41047.0,329.0,32.001,,65.6,OK,10.280928720977471,,0.19939209726443768,True
+Honda City,2025,Ogos,8,2025-08-25,41141.0,94.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,2025-08-26,41512.0,371.0,35.302,,72.35,OK,10.509319585292618,,0.19501347708894878,True
+Honda City,2025,Ogos,8,2025-08-27,41820.0,308.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,1900-01-29,42154.0,334.0,34.007,,69.71,OK,9.821507336724792,,0.20871257485029937,True
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-02,34599.0,29.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-07,34918.0,319.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-11,35243.0,325.0,34.0,,69.7,OK,9.558823529411764,,0.21446153846153848,True
+Honda City,2025,Julai,7,2025-07-15,35568.0,325.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-16,35660.0,92.0,35.0,,71.75,OK,2.6285714285714286,,0.779891304347826,True
+Honda City,2025,Julai,7,2025-07-17,35825.0,165.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-19,36161.0,336.0,26.2,,53.7,OK,12.82442748091603,,0.1598214285714286,True
+Honda City,2025,Julai,7,2025-07-21,36433.0,272.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-22,36753.0,320.0,34.0,,69.7,OK,9.411764705882353,,0.21781250000000002,True
+Honda City,2025,Julai,7,2025-07-23,36930.0,177.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-25,37254.0,324.0,33.41,,68.5,OK,9.697695300808142,,0.21141975308641975,True
+Honda City,2025,Julai,7,2025-07-27,37597.0,343.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,37636.0,39.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-28,37675.0,39.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,37681.0,6.0,36.01,,73.81,Tarikh kosong,0.16662038322688144,,12.301666666666668,True
+Honda City,2025,Julai,7,,37705.0,24.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-29,38042.0,337.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,38051.0,9.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-30,38062.0,11.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,2025-07-31,38318.0,256.0,26.0,,53.3,OK,9.846153846153847,,0.208203125,True
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,2025-06-03,33098.0,267.0,25.01,,51.27,OK,10.675729708116753,,0.19202247191011237,True
+Honda City,2025,Jun,6,2025-06-05,33267.0,169.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,2025-06-16,33358.0,91.0,34.01,,69.71,OK,2.6756836224639815,,0.7660439560439559,True
+Honda City,2025,Jun,6,,33395.0,37.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,2025-06-19,33722.0,327.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,2025-06-20,33744.0,22.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,2025-06-23,34078.0,334.0,33.01,,67.66,OK,10.11814601635868,,0.2025748502994012,True
+Honda City,2025,Jun,6,2025-06-24,34390.0,312.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,2025-06-25,34570.0,180.0,34.01,,69.71,OK,5.292561011467216,,0.3872777777777777,True
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,2025-05-02,31439.0,195.0,34.01,,69.71,OK,5.7336077624228174,,0.35748717948717945,True
+Honda City,2025,Mei,5,2025-05-13,31760.0,321.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,2025-05-14,31949.0,189.0,32.01,,65.61,OK,5.904404873477039,,0.34714285714285714,True
+Honda City,2025,Mei,5,2025-05-15,32034.0,85.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,2025-05-19,32122.0,88.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,2025-05-21,32161.0,39.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,2025-05-26,32496.0,335.0,36.0,,73.8,OK,9.305555555555555,,0.22029850746268656,True
+Honda City,2025,Mei,5,2025-05-27,32831.0,335.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,2025-04-10,29720.0,212.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,2025-04-14,29720.0,0.0,32.01,,65.61,Jarak <= 0,,,,False
+Honda City,2025,April,4,2025-04-17,29724.0,4.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,2025-04-18,30057.0,333.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,2025-04-21,30395.0,338.0,35.61,,72.99,OK,9.491715810165683,,0.21594674556213017,True
+Honda City,2025,April,4,,30735.0,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,2025-04-24,30913.0,178.0,36.01,,73.82,OK,4.943071369064149,,0.41471910112359545,True
+Honda City,2025,April,4,2025-04-28,31244.0,331.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,2025-03-03,27956.0,37.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,2025-03-06,28274.0,318.0,29.68,,60.84,OK,10.714285714285714,,0.19132075471698115,True
+Honda City,2025,Mac,3,2025-03-11,28453.0,179.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,2025-03-13,28789.0,336.0,32.0,,65.6,OK,10.5,,0.1952380952380952,True
+Honda City,2025,Mac,3,2025-03-19,28971.0,182.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,2025-03-24,29176.0,205.0,34.0,,69.71,OK,6.029411764705882,,0.34004878048780485,True
+Honda City,2025,Mac,3,2025-03-26,29508.0,332.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,2025-02-07,26551.0,355.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,2025-02-11,26643.0,92.0,33.0,,67.79,OK,2.787878787878788,,0.7368478260869565,True
+Honda City,2025,Februari,2,2025-02-12,26735.0,92.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,2025-02-13,27051.0,316.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,2025-02-14,27075.0,24.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,2025-02-24,27175.0,100.0,34.0,,69.7,OK,2.9411764705882355,,0.6970000000000001,True
+Honda City,2025,Februari,2,2025-02-25,27452.0,277.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,2025-02-26,27526.0,74.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,2025-02-28,27919.0,393.0,31.57,,64.71,OK,12.448527082673424,,0.1646564885496183,True
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,2025-01-03,,,30.27,,62.05,Jarak kosong,,,,False
+Honda City,2025,Januari,1,2025-01-09,23654.0,193.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,2025-01-10,23979.0,325.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,2025-01-13,24319.0,340.0,28.49,,58.4,OK,11.934011934011934,,0.17176470588235293,True
+Honda City,2025,Januari,1,2025-01-14,24685.0,366.0,19.51,,40.0,OK,18.75961045617632,,0.1092896174863388,True
+Honda City,2025,Januari,1,2025-01-15,24685.0,0.0,24.64,,50.5,Jarak <= 0,,,,False
+Honda City,2025,Januari,1,,24890.0,205.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,2025-01-18,24912.0,22.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,2025-01-20,25099.0,187.0,30.0,,61.5,OK,6.233333333333333,,0.32887700534759357,True
+Honda City,2025,Januari,1,2025-01-21,25428.0,329.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,2025-01-24,25800.0,372.0,32.0,,65.6,OK,11.625,,0.17634408602150536,True
+Honda City,2025,Januari,1,2025-01-25,26196.0,396.0,31.75,,65.11,OK,12.472440944881889,,0.1644191919191919,True
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Honda City,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,2025-12-02,264359.0,92.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,2025-12-02,264610.0,251.0,36.627,,96.33,OK,6.852868102765719,,0.3837848605577689,True
+Toyota Innova,2025,Disember,12,2025-12-03,265015.0,405.0,40.23,,105.8,OK,10.067114093959733,,0.26123456790123456,True
+Toyota Innova,2025,Disember,12,2025-12-04,265281.0,266.0,33.457,,89.0,OK,7.9505036315270345,,0.33458646616541354,True
+Toyota Innova,2025,Disember,12,2025-12-08,265652.0,371.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,2025-12-09,265970.0,318.0,49.475,,131.6,OK,6.427488630621526,,0.41383647798742135,True
+Toyota Innova,2025,Disember,12,2025-12-10,265973.0,3.0,37.162,,98.85,OK,0.0807276249932727,,32.949999999999996,True
+Toyota Innova,2025,Disember,12,2025-12-10,266369.0,396.0,35.475,,94.36,OK,11.162790697674419,,0.2382828282828283,True
+Toyota Innova,2025,Disember,12,2025-12-11,266757.0,388.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,2025-12-12,267218.0,461.0,46.627,,123.1,OK,9.88697535762541,,0.26702819956616053,True
+Toyota Innova,2025,Disember,12,2025-12-15,267230.0,12.0,53.637,,141.6,OK,0.22372615918116226,,11.799999999999999,True
+Toyota Innova,2025,Disember,12,2025-12-17,267576.0,346.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,2025-12-19,267996.0,420.0,36.032,,94.4,OK,11.656305506216697,,0.22476190476190477,True
+Toyota Innova,2025,Disember,12,2025-12-22,268355.0,359.0,38.052,,99.7,OK,9.434458109954798,,0.2777158774373259,True
+Toyota Innova,2025,Disember,12,2025-12-23,268711.0,356.0,38.052,,99.7,OK,9.355618627141807,,0.2800561797752809,True
+Toyota Innova,2025,Disember,12,2025-12-24,268970.0,259.0,49.013,,128.41,OK,5.284312325301451,,0.49579150579150577,True
+Toyota Innova,2025,Disember,12,2025-12-31,269284.0,314.0,50.781,,130.0,OK,6.183415056812588,,0.4140127388535032,True
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Disember,12,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,2025-11-02,260453.0,308.0,30.307,,94.4,OK,10.162668690401558,,0.3064935064935065,True
+Toyota Innova,2025,November,11,2025-11-03,260475.0,22.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,2025-11-04,260480.0,5.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,2025-11-05,260510.0,30.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,2025-11-06,260544.0,34.0,46.269,,120.3,OK,0.7348332576887333,,3.538235294117647,True
+Toyota Innova,2025,November,11,2025-11-07,260901.0,357.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,2025-11-10,261283.0,382.0,50.578,,131.5,OK,7.552690893273755,,0.34424083769633507,True
+Toyota Innova,2025,November,11,2025-11-12,261469.0,186.0,37.732,,98.1,OK,4.929502809286547,,0.5274193548387096,True
+Toyota Innova,2025,November,11,2025-11-13,261823.0,354.0,36.981,,98.0,OK,9.572483167031718,,0.2768361581920904,True
+Toyota Innova,2025,November,11,2025-11-14,262080.0,257.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,2025-11-17,262479.0,399.0,43.247,,114.6,OK,9.226073484866003,,0.28721804511278193,True
+Toyota Innova,2025,November,11,2025-11-18,262826.0,347.0,47.662,,126.3,OK,7.280433049389451,,0.3639769452449568,True
+Toyota Innova,2025,November,11,2025-11-19,263193.0,367.0,39.245,,104.0,OK,9.351509746464519,,0.28337874659400547,True
+Toyota Innova,2025,November,11,2025-11-20,263276.0,83.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,2025-11-24,263619.0,343.0,52.19,,138.3,OK,6.572140256754167,,0.40320699708454816,True
+Toyota Innova,2025,November,11,2025-11-25,263979.0,360.0,34.075,,90.3,OK,10.564930300807042,,0.25083333333333335,True
+Toyota Innova,2025,November,11,2025-11-28,264267.0,288.0,42.76,,112.46,OK,6.735266604303087,,0.3904861111111111,True
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,November,11,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-01,255247.0,335.0,37.422,,97.3,OK,8.951953396397842,,0.2904477611940298,True
+Toyota Innova,2025,Oktober,10,2025-10-02,255250.0,3.0,41.809,,108.7,OK,0.07175488531177499,,36.233333333333334,True
+Toyota Innova,2025,Oktober,10,,255691.0,441.0,21.27,,55.3,Tarikh kosong,20.73342736248237,,0.1253968253968254,True
+Toyota Innova,2025,Oktober,10,2025-10-03,255806.0,115.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-06,255813.0,7.0,33.922,,88.2,OK,0.2063557573256294,,12.6,True
+Toyota Innova,2025,Oktober,10,2025-10-07,255823.0,10.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-08,255861.0,38.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-08,256028.0,167.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-09,256030.0,2.0,24.615,,64.0,OK,0.08125126955108675,,32.0,True
+Toyota Innova,2025,Oktober,10,2025-10-10,256481.0,451.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-13,256848.0,367.0,48.462,,126.0,OK,7.572943749742065,,0.34332425068119893,True
+Toyota Innova,2025,Oktober,10,2025-10-14,257025.0,177.0,48.307,,125.8,OK,3.664065249342745,,0.7107344632768361,True
+Toyota Innova,2025,Oktober,10,2025-10-15,257038.0,13.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-15,257141.0,103.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-16,257409.0,268.0,20.325,,52.84,OK,13.185731857318574,,0.19716417910447762,True
+Toyota Innova,2025,Oktober,10,2025-10-17,257517.0,108.0,33.192,,86.3,OK,3.2537960954446854,,0.799074074074074,True
+Toyota Innova,2025,Oktober,10,2025-10-18,257678.0,161.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-19,257780.0,102.0,38.652,,100.5,OK,2.6389320086929526,,0.9852941176470589,True
+Toyota Innova,2025,Oktober,10,2025-10-20,258070.0,290.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-22,258247.0,177.0,47.269,,122.9,OK,3.7445260107046905,,0.6943502824858757,True
+Toyota Innova,2025,Oktober,10,2025-10-23,258621.0,374.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-24,259019.0,398.0,44.54,,115.8,OK,8.935788055680288,,0.2909547738693467,True
+Toyota Innova,2025,Oktober,10,2025-10-27,259396.0,377.0,40.845,,106.2,OK,9.23001591382054,,0.2816976127320955,True
+Toyota Innova,2025,Oktober,10,2025-10-30,259432.0,36.0,39.545,,102.8,OK,0.9103552914401315,,2.8555555555555556,True
+Toyota Innova,2025,Oktober,10,2025-10-30,259813.0,381.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,2025-10-31,260145.0,332.0,41.117,,106.9,OK,8.074519055378554,,0.32198795180722894,True
+Toyota Innova,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Oktober,10,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-02,34599.0,29.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-07,34918.0,319.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-11,35243.0,325.0,34.0,,69.7,OK,9.558823529411764,,0.21446153846153848,True
+Toyota Innova,2025,Julai,7,2025-07-15,35568.0,325.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-16,35660.0,92.0,35.0,,71.75,OK,2.6285714285714286,,0.779891304347826,True
+Toyota Innova,2025,Julai,7,2025-07-17,35825.0,165.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-19,36161.0,336.0,26.2,,53.7,OK,12.82442748091603,,0.1598214285714286,True
+Toyota Innova,2025,Julai,7,2025-07-21,36433.0,272.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-22,36753.0,320.0,34.0,,69.7,OK,9.411764705882353,,0.21781250000000002,True
+Toyota Innova,2025,Julai,7,2025-07-23,36930.0,177.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-25,37254.0,324.0,33.41,,68.5,OK,9.697695300808142,,0.21141975308641975,True
+Toyota Innova,2025,Julai,7,2025-07-27,37597.0,343.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,37636.0,39.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-28,37675.0,39.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,37681.0,6.0,36.01,,73.81,Tarikh kosong,0.16662038322688144,,12.301666666666668,True
+Toyota Innova,2025,Julai,7,,37705.0,24.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-29,38042.0,337.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,38051.0,9.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-30,38062.0,11.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,2025-07-31,38318.0,256.0,26.0,,53.3,OK,9.846153846153847,,0.208203125,True
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,2025-06-03,33098.0,267.0,25.01,,51.27,OK,10.675729708116753,,0.19202247191011237,True
+Toyota Innova,2025,Jun,6,2025-06-05,33267.0,169.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,2025-06-16,33358.0,91.0,34.01,,69.71,OK,2.6756836224639815,,0.7660439560439559,True
+Toyota Innova,2025,Jun,6,,33395.0,37.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,2025-06-19,33722.0,327.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,2025-06-20,33744.0,22.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,2025-06-23,34078.0,334.0,33.01,,67.66,OK,10.11814601635868,,0.2025748502994012,True
+Toyota Innova,2025,Jun,6,2025-06-24,34390.0,312.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,2025-06-25,34570.0,180.0,34.01,,69.71,OK,5.292561011467216,,0.3872777777777777,True
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-04,282974.0,134.0,52.871,,209.9,OK,2.534470692818369,,1.5664179104477611,True
+Toyota Innova,2025,Mei,5,2026-05-05,283036.0,62.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-06,283365.0,329.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-07,283370.0,5.0,49.452,,198.8,OK,0.10110814527218313,,39.760000000000005,True
+Toyota Innova,2025,Mei,5,2026-05-07,283495.0,125.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-08,283870.0,375.0,46.467,,186.8,OK,8.0702433985409,,0.4981333333333334,True
+Toyota Innova,2025,Mei,5,2026-05-11,283966.0,96.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-13,284310.0,344.0,23.735,,95.41,OK,14.493364230040026,,0.2773546511627907,True
+Toyota Innova,2025,Mei,5,2026-05-13,284359.0,49.0,40.175,,161.5,OK,1.2196639701306784,,3.295918367346939,True
+Toyota Innova,2025,Mei,5,2026-05-14,284724.0,365.0,36.797,,142.4,OK,9.919286898388457,,0.3901369863013699,True
+Toyota Innova,2025,Mei,5,2026-05-17,284762.0,38.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-19,285090.0,328.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-20,285453.0,363.0,46.175,,178.7,OK,7.861396859772604,,0.4922865013774104,True
+Toyota Innova,2025,Mei,5,2026-05-20,285498.0,45.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-21,285651.0,153.0,47.135,,191.85,OK,3.2459955447119975,,1.253921568627451,True
+Toyota Innova,2025,Mei,5,2026-05-22,285722.0,71.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,2026-05-22,286082.0,360.0,33.712,,137.21,OK,10.678690080683435,,0.3811388888888889,True
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,2026-04-02,278089.0,160.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,2026-04-03,278486.0,397.0,33.333,,129.0,OK,11.910119101191013,,0.3249370277078086,True
+Toyota Innova,2025,April,4,2026-04-06,278912.0,426.0,32.532,,125.9,OK,13.094798967170787,,0.2955399061032864,True
+Toyota Innova,2025,April,4,2026-04-06,278912.0,0.0,38.553,,149.2,Jarak <= 0,,,,False
+Toyota Innova,2025,April,4,2026-04-08,279335.0,423.0,37.738,,146.05,OK,11.208861094917589,,0.34527186761229317,True
+Toyota Innova,2025,April,4,2026-04-09,279393.0,58.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,2026-04-10,279791.0,398.0,47.38,,202.31,OK,8.400168847615028,,0.5083165829145728,True
+Toyota Innova,2025,April,4,2026-04-13,280183.0,392.0,51.125,,218.3,OK,7.667481662591687,,0.5568877551020408,True
+Toyota Innova,2025,April,4,2026-04-17,280579.0,396.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,2026-04-20,280913.0,334.0,48.9,,196.58,OK,6.830265848670757,,0.588562874251497,True
+Toyota Innova,2025,April,4,2026-04-21,281278.0,365.0,45.074,,181.2,OK,8.097794737542708,,0.49643835616438353,True
+Toyota Innova,2025,April,4,2026-04-23,281630.0,352.0,44.806,,173.4,OK,7.856090702138107,,0.49261363636363636,True
+Toyota Innova,2025,April,4,2026-04-24,282050.0,420.0,39.147,,151.5,OK,10.728791478274198,,0.3607142857142857,True
+Toyota Innova,2025,April,4,2026-04-27,282421.0,371.0,31.939,,123.6,OK,11.615892795641692,,0.33315363881401616,True
+Toyota Innova,2025,April,4,2026-04-29,282840.0,419.0,37.675,,145.8,OK,11.121433311214334,,0.3479713603818616,True
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,2026-03-02,276726.0,414.0,35.367,,91.6,OK,11.705827466282129,,0.22125603864734297,True
+Toyota Innova,2025,Mac,3,2026-03-03,276913.0,187.0,50.287,,130.24,OK,3.718654920754867,,0.6964705882352942,True
+Toyota Innova,2025,Mac,3,2026-03-04,277265.0,352.0,35.87,,92.9,OK,9.81321438528018,,0.26392045454545454,True
+Toyota Innova,2025,Mac,3,2026-03-05,277474.0,209.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,2026-03-06,277855.0,381.0,41.125,,109.8,OK,9.264437689969604,,0.28818897637795277,True
+Toyota Innova,2025,Mac,3,2025-03-09,277913.0,58.0,43.485,,116.1,OK,1.333793262044383,,2.0017241379310344,True
+Toyota Innova,2025,Mac,3,2026-03-10,277927.0,14.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,2026-02-03,273184.0,258.0,45.235,,114.9,OK,5.7035481375041455,,0.44534883720930235,True
+Toyota Innova,2025,Februari,2,2026-02-04,273560.0,376.0,33.858,,86.0,OK,11.10520408766023,,0.22872340425531915,True
+Toyota Innova,2025,Februari,2,2026-02-05,273615.0,55.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,2026-02-06,274002.0,387.0,30.195,,76.7,OK,12.816691505216095,,0.19819121447028423,True
+Toyota Innova,2025,Februari,2,2026-02-09,274093.0,91.0,44.622,,113.34,OK,2.039352785621442,,1.2454945054945055,True
+Toyota Innova,2025,Februari,2,2026-02-12,274421.0,328.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,2026-02-13,274516.0,95.0,43.225,,109.79,OK,2.1978021978021975,,1.1556842105263159,True
+Toyota Innova,2025,Februari,2,2026-02-23,274902.0,386.0,32.01,,81.31,OK,12.058731646360513,,0.21064766839378238,True
+Toyota Innova,2025,Februari,2,2026-02-24,275267.0,365.0,40.815,,103.67,OK,8.942790640695824,,0.284027397260274,True
+Toyota Innova,2025,Februari,2,2026-02-25,275617.0,350.0,40.195,,102.1,OK,8.707550690384377,,0.2917142857142857,True
+Toyota Innova,2025,Februari,2,2026-02-26,275947.0,330.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,2026-02-27,276312.0,365.0,34.905,,90.4,OK,10.456954591032803,,0.24767123287671233,True
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,2026-01-05,269690.0,406.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,2026-01-07,270036.0,346.0,41.875,,107.2,OK,8.26268656716418,,0.30982658959537573,True
+Toyota Innova,2025,Januari,1,2026-01-08,270138.0,102.0,38.955,,98.95,OK,2.6184058529072005,,0.9700980392156863,True
+Toyota Innova,2025,Januari,1,2026-01-09,270483.0,345.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,2026-01-13,270892.0,409.0,36.495,,92.7,OK,11.207014659542404,,0.22665036674816627,True
+Toyota Innova,2025,Januari,1,2026-01-14,270992.0,100.0,43.545,,110.6,OK,2.296474911011597,,1.1059999999999999,True
+Toyota Innova,2025,Januari,1,2026-01-16,271091.0,99.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,2026-01-20,271437.0,346.0,40.04,,100.9,OK,8.641358641358641,,0.2916184971098266,True
+Toyota Innova,2025,Januari,1,2026-01-22,271828.0,391.0,36.376,,92.4,OK,10.748845392566528,,0.23631713554987213,True
+Toyota Innova,2025,Januari,1,2026-01-26,272230.0,402.0,20.59,,52.3,OK,19.524040796503158,,0.1300995024875622,True
+Toyota Innova,2025,Januari,1,2026-01-28,272594.0,364.0,43.66,,110.9,OK,8.337150710032066,,0.3046703296703297,True
+Toyota Innova,2025,Januari,1,2026-01-29,272936.0,342.0,42.322,,107.5,OK,8.080903548981617,,0.31432748538011696,True
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2025,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,2026-09-01,297202.0,398.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,2026-09-02,297452.0,250.0,48.01,,183.4,OK,5.207248489897938,,0.7336,True
+Toyota Innova,2026,September,9,2026-09-03,297498.0,46.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,2026-09-04,297554.0,56.0,40.075,,151.1,OK,1.3973799126637554,,2.6982142857142857,True
+Toyota Innova,2026,September,9,2026-09-05,297882.0,328.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,2026-09-07,298201.0,319.0,44.179,,166.55,OK,7.220625183910908,,0.5221003134796238,True
+Toyota Innova,2026,September,9,2026-09-10,298529.0,328.0,33.92,,136.36,OK,9.669811320754716,,0.4157317073170732,True
+Toyota Innova,2026,September,9,2026-09-14,298864.0,335.0,31.444,,126.4,OK,10.653860831955223,,0.3773134328358209,True
+Toyota Innova,2026,September,9,2026-09-15,299196.0,332.0,31.348,,126.02,OK,10.590787291055252,,0.37957831325301206,True
+Toyota Innova,2026,September,9,2026-09-18,299521.0,325.0,41.58,,181.7,OK,7.816257816257816,,0.559076923076923,True
+Toyota Innova,2026,September,9,2026-09-30,299533.0,12.0,14.825,,67.75,OK,0.8094435075885329,,5.645833333333333,True
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,September,9,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,2026-08-03,294410.0,380.0,25.62,,97.87,OK,14.832162373145978,,0.25755263157894737,True
+Toyota Innova,2026,Ogos,8,2026-08-07,294744.0,334.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,2026-08-10,295077.0,333.0,49.535,,186.75,OK,6.722519430705562,,0.5608108108108109,True
+Toyota Innova,2026,Ogos,8,2026-08-11,295152.0,75.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,2026-08-14,295495.0,343.0,35.22,,127.5,OK,9.73878478137422,,0.3717201166180758,True
+Toyota Innova,2026,Ogos,8,2026-08-17,295858.0,363.0,35.16,,127.3,OK,10.324232081911264,,0.3506887052341598,True
+Toyota Innova,2026,Ogos,8,2026-08-19,295979.0,121.0,44.504,,161.1,OK,2.718856731979148,,1.331404958677686,True
+Toyota Innova,2026,Ogos,8,2026-08-20,296172.0,193.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,2026-08-21,296591.0,419.0,41.025,,154.66,OK,10.213284582571603,,0.36911694510739856,True
+Toyota Innova,2026,Ogos,8,2026-08-24,296715.0,124.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,2026-08-26,296804.0,89.0,44.987,,169.6,OK,1.9783493009091515,,1.90561797752809,True
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Ogos,8,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,2026-07-01,290131.0,389.0,37.68,,126.98,OK,10.323779193205946,,0.326426735218509,True
+Toyota Innova,2026,Julai,7,2026-07-03,290477.0,346.0,43.579,,146.86,OK,7.939603937676404,,0.4244508670520232,True
+Toyota Innova,2026,Julai,7,2026-07-04,290822.0,345.0,42.699,,143.9,OK,8.079814515562425,,0.41710144927536236,True
+Toyota Innova,2026,Julai,7,2026-07-06,291295.0,473.0,38.515,,129.8,OK,12.280929507983902,,0.2744186046511628,True
+Toyota Innova,2026,Julai,7,2026-07-07,291654.0,359.0,43.561,,146.8,OK,8.241316774178738,,0.40891364902506966,True
+Toyota Innova,2026,Julai,7,2026-07-08,292011.0,357.0,48.932,,164.9,OK,7.295839123681844,,0.46190476190476193,True
+Toyota Innova,2026,Julai,7,2026-07-09,292377.0,366.0,40.346,,135.97,OK,9.0715312546473,,0.3715027322404372,True
+Toyota Innova,2026,Julai,7,2026-07-10,292780.0,403.0,36.883,,124.3,OK,10.926443076756229,,0.3084367245657568,True
+Toyota Innova,2026,Julai,7,2026-07-13,293154.0,374.0,37.862,,127.59,OK,9.877977919814061,,0.3411497326203209,True
+Toyota Innova,2026,Julai,7,2026-07-14,293245.0,91.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,2026-07-16,293585.0,340.0,41.16,,140.77,OK,8.26044703595724,,0.4140294117647059,True
+Toyota Innova,2026,Julai,7,2026-07-28,293690.0,105.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,2026-07-31,294030.0,340.0,45.454,,173.63,OK,7.480089761077132,,0.5106764705882353,True
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Julai,7,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,2026-06-08,286435.0,353.0,34.422,,128.05,OK,10.255069432339784,,0.3627478753541077,True
+Toyota Innova,2026,Jun,6,2026-06-11,286768.0,333.0,38.841,,144.49,OK,8.573414690661929,,0.43390390390390393,True
+Toyota Innova,2026,Jun,6,2026-06-12,286956.0,188.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,2026-06-15,287204.0,248.0,40.112,,149.22,OK,6.182688472277622,,0.6016935483870968,True
+Toyota Innova,2026,Jun,6,2026-06-15,287384.0,180.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,2026-06-16,287726.0,342.0,40.382,,150.2,OK,8.469119904908128,,0.43918128654970756,True
+Toyota Innova,2026,Jun,6,2026-06-18,288184.0,458.0,35.995,,133.9,OK,12.723989442978192,,0.2923580786026201,True
+Toyota Innova,2026,Jun,6,2026-06-23,288576.0,392.0,50.947,,189.5,OK,7.6942705164190235,,0.48341836734693877,True
+Toyota Innova,2026,Jun,6,2026-06-25,288930.0,354.0,41.01,,142.3,OK,8.632040965618142,,0.4019774011299435,True
+Toyota Innova,2026,Jun,6,2026-06-26,288994.0,64.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,2026-06-29,289392.0,398.0,43.43,,150.7,OK,9.164172231176606,,0.37864321608040197,True
+Toyota Innova,2026,Jun,6,2026-06-30,289742.0,350.0,39.742,,137.9,OK,8.80680388505863,,0.394,True
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Jun,6,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-04,282974.0,134.0,52.871,,209.9,OK,2.534470692818369,,1.5664179104477611,True
+Toyota Innova,2026,Mei,5,2026-05-05,283036.0,62.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-06,283365.0,329.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-07,283370.0,5.0,49.452,,198.8,OK,0.10110814527218313,,39.760000000000005,True
+Toyota Innova,2026,Mei,5,2026-05-07,283495.0,125.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-08,283870.0,375.0,46.467,,186.8,OK,8.0702433985409,,0.4981333333333334,True
+Toyota Innova,2026,Mei,5,2026-05-11,283966.0,96.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-13,284310.0,344.0,23.735,,95.41,OK,14.493364230040026,,0.2773546511627907,True
+Toyota Innova,2026,Mei,5,2026-05-13,284359.0,49.0,40.175,,161.5,OK,1.2196639701306784,,3.295918367346939,True
+Toyota Innova,2026,Mei,5,2026-05-14,284724.0,365.0,36.797,,142.4,OK,9.919286898388457,,0.3901369863013699,True
+Toyota Innova,2026,Mei,5,2026-05-17,284762.0,38.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-19,285090.0,328.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-20,285453.0,363.0,46.175,,178.7,OK,7.861396859772604,,0.4922865013774104,True
+Toyota Innova,2026,Mei,5,2026-05-20,285498.0,45.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-21,285651.0,153.0,47.135,,191.85,OK,3.2459955447119975,,1.253921568627451,True
+Toyota Innova,2026,Mei,5,2026-05-22,285722.0,71.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,2026-05-22,286082.0,360.0,33.712,,137.21,OK,10.678690080683435,,0.3811388888888889,True
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mei,5,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,2026-04-02,278089.0,160.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,2026-04-03,278486.0,397.0,33.333,,129.0,OK,11.910119101191013,,0.3249370277078086,True
+Toyota Innova,2026,April,4,2026-04-06,278912.0,426.0,32.532,,125.9,OK,13.094798967170787,,0.2955399061032864,True
+Toyota Innova,2026,April,4,2026-04-06,278912.0,0.0,38.553,,149.2,Jarak <= 0,,,,False
+Toyota Innova,2026,April,4,2026-04-08,279335.0,423.0,37.738,,146.05,OK,11.208861094917589,,0.34527186761229317,True
+Toyota Innova,2026,April,4,2026-04-09,279393.0,58.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,2026-04-10,279791.0,398.0,47.38,,202.31,OK,8.400168847615028,,0.5083165829145728,True
+Toyota Innova,2026,April,4,2026-04-13,280183.0,392.0,51.125,,218.3,OK,7.667481662591687,,0.5568877551020408,True
+Toyota Innova,2026,April,4,2026-04-17,280579.0,396.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,2026-04-20,280913.0,334.0,48.9,,196.58,OK,6.830265848670757,,0.588562874251497,True
+Toyota Innova,2026,April,4,2026-04-21,281278.0,365.0,45.074,,181.2,OK,8.097794737542708,,0.49643835616438353,True
+Toyota Innova,2026,April,4,2026-04-23,281630.0,352.0,44.806,,173.4,OK,7.856090702138107,,0.49261363636363636,True
+Toyota Innova,2026,April,4,2026-04-24,282050.0,420.0,39.147,,151.5,OK,10.728791478274198,,0.3607142857142857,True
+Toyota Innova,2026,April,4,2026-04-27,282421.0,371.0,31.939,,123.6,OK,11.615892795641692,,0.33315363881401616,True
+Toyota Innova,2026,April,4,2026-04-29,282840.0,419.0,37.675,,145.8,OK,11.121433311214334,,0.3479713603818616,True
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,April,4,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,2026-03-02,276726.0,414.0,35.367,,91.6,OK,11.705827466282129,,0.22125603864734297,True
+Toyota Innova,2026,Mac,3,2026-03-03,276913.0,187.0,50.287,,130.24,OK,3.718654920754867,,0.6964705882352942,True
+Toyota Innova,2026,Mac,3,2026-03-04,277265.0,352.0,35.87,,92.9,OK,9.81321438528018,,0.26392045454545454,True
+Toyota Innova,2026,Mac,3,2026-03-05,277474.0,209.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,2026-03-06,277855.0,381.0,41.125,,109.8,OK,9.264437689969604,,0.28818897637795277,True
+Toyota Innova,2026,Mac,3,2025-03-09,277913.0,58.0,43.485,,116.1,OK,1.333793262044383,,2.0017241379310344,True
+Toyota Innova,2026,Mac,3,2026-03-10,277927.0,14.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Mac,3,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,2026-02-03,273184.0,258.0,45.235,,114.9,OK,5.7035481375041455,,0.44534883720930235,True
+Toyota Innova,2026,Februari,2,2026-02-04,273560.0,376.0,33.858,,86.0,OK,11.10520408766023,,0.22872340425531915,True
+Toyota Innova,2026,Februari,2,2026-02-05,273615.0,55.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,2026-02-06,274002.0,387.0,30.195,,76.7,OK,12.816691505216095,,0.19819121447028423,True
+Toyota Innova,2026,Februari,2,2026-02-09,274093.0,91.0,44.622,,113.34,OK,2.039352785621442,,1.2454945054945055,True
+Toyota Innova,2026,Februari,2,2026-02-12,274421.0,328.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,2026-02-13,274516.0,95.0,43.225,,109.79,OK,2.1978021978021975,,1.1556842105263159,True
+Toyota Innova,2026,Februari,2,2026-02-23,274902.0,386.0,32.01,,81.31,OK,12.058731646360513,,0.21064766839378238,True
+Toyota Innova,2026,Februari,2,2026-02-24,275267.0,365.0,40.815,,103.67,OK,8.942790640695824,,0.284027397260274,True
+Toyota Innova,2026,Februari,2,2026-02-25,275617.0,350.0,40.195,,102.1,OK,8.707550690384377,,0.2917142857142857,True
+Toyota Innova,2026,Februari,2,2026-02-26,275947.0,330.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,2026-02-27,276312.0,365.0,34.905,,90.4,OK,10.456954591032803,,0.24767123287671233,True
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Februari,2,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,2026-01-05,269690.0,406.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,2026-01-07,270036.0,346.0,41.875,,107.2,OK,8.26268656716418,,0.30982658959537573,True
+Toyota Innova,2026,Januari,1,2026-01-08,270138.0,102.0,38.955,,98.95,OK,2.6184058529072005,,0.9700980392156863,True
+Toyota Innova,2026,Januari,1,2026-01-09,270483.0,345.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,2026-01-13,270892.0,409.0,36.495,,92.7,OK,11.207014659542404,,0.22665036674816627,True
+Toyota Innova,2026,Januari,1,2026-01-14,270992.0,100.0,43.545,,110.6,OK,2.296474911011597,,1.1059999999999999,True
+Toyota Innova,2026,Januari,1,2026-01-16,271091.0,99.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,2026-01-20,271437.0,346.0,40.04,,100.9,OK,8.641358641358641,,0.2916184971098266,True
+Toyota Innova,2026,Januari,1,2026-01-22,271828.0,391.0,36.376,,92.4,OK,10.748845392566528,,0.23631713554987213,True
+Toyota Innova,2026,Januari,1,2026-01-26,272230.0,402.0,20.59,,52.3,OK,19.524040796503158,,0.1300995024875622,True
+Toyota Innova,2026,Januari,1,2026-01-28,272594.0,364.0,43.66,,110.9,OK,8.337150710032066,,0.3046703296703297,True
+Toyota Innova,2026,Januari,1,2026-01-29,272936.0,342.0,42.322,,107.5,OK,8.080903548981617,,0.31432748538011696,True
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
+Toyota Innova,2026,Januari,1,,,0.0,,,,Liter kosong,,,,False
